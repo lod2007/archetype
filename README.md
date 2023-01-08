@@ -120,11 +120,11 @@ mvn archetype:generate
 
 ![image](img/1.png)
 
-groupId - группа проектов: su.baa
-artifactId - название текущего проекта: second-app
-version - версия: 1.0.0
-package - название пакета: su.baa
-Жмём: Y
+groupId - группа проектов: su.baa<br>
+artifactId - название текущего проекта: second-app<br>
+version - версия: 1.0.0<br>
+package - название пакета: su.baa<br>
+Жмём: Y<br>
 ![image](img/2.png)
 
 альтернотивно тоже самое можно выполнить одной командой:
